@@ -5,4 +5,4 @@ Folders contain files relevant to data collection, the data collected, and files
 
 Gephi files for the network text analyses can be found in the Analyses folder.
 
-Please contact me at leo.vrana@uni-konstanz.de if you are have questions.
+Please contact me at leo.vrana@uni-konstanz.de if you have any questions.
